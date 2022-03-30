@@ -4,6 +4,7 @@ types:
   - app
   - env
 inputs:
+  - group_id: zup.com.br
   - label: Input Example
     type: text
     name: example
